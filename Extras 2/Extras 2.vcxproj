@@ -24,7 +24,7 @@
     <ProjectGuid>{b2f885a2-914d-4305-8fd5-307f2c7b59fe}</ProjectGuid>
     <RootNamespace>Extras2</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Extra 2</ProjectName>
+    <ProjectName>Extra 1.2</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -140,7 +140,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Extras 2.cpp" />
+    <ClCompile Include="Extra 1.2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
